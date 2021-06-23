@@ -1,11 +1,25 @@
-E ai Beleza ?! Eu sou o Bruno Morais
- ![image](https://user-images.githubusercontent.com/71741004/123177597-f4da6d00-d45b-11eb-88a8-909b7af64d42.png)
-![image](https://user-images.githubusercontent.com/71741004/123177618-fefc6b80-d45b-11eb-814a-ca8c7f467265.png)
+# E ai beleza?! Eu sou o Bruno Morais 
+ <div>
+  <a href="https://github.com/Brunom001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunom001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom001&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-
-![image](https://user-images.githubusercontent.com/71741004/123177641-07ed3d00-d45c-11eb-9577-e5ce3e2b0ebf.png)
-
-   ![image](https://user-images.githubusercontent.com/71741004/123177656-0d4a8780-d45c-11eb-8a12-048534348230.png)
   
+  ##
+ 
+<div> 
 
-https://github.com/Brunom001/Brunom001/blob/output/github-contribution-grid-snake.svg
+  <a href="https://instagram.com/bmorais.o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bmo.morais@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-morais-b48243b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Brunom001/Brunom001/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
